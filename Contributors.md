@@ -72,6 +72,7 @@ happy# Contributors
 - [Karl](https://github.com/BurnsteinKarl)
 - [Vicky](https://github.com/victoriaburn)
 - [Bo Pratt](https://github.com/bo-pratt)
+- [Amadeo Granillo](https://github.com/amadeogranillo)
 - [Hamza](https://github.com/doncarbon)
 - [Mijuku](https://github.com/mijukuex)
 - [ZRKHSM](https://github.com/ZRKHSM)
